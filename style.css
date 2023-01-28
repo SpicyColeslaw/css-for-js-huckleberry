@@ -91,6 +91,7 @@ p {
 .max-width-wrapper {
   margin: auto;
   max-width: 774px;
+  padding: 0px 24px;
 }
 
 /* header styles */
